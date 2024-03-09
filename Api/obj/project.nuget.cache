@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mp6xiWDWXwWfs/g831ZEDSvza/RmfgKzRc9ljAd1i4RGZ0MEtY6XEyMVjLcVGkKWGitClC/Z7vJGQJvn3vIjlQ==",
+  "dgSpecHash": "4Ivem8+TnPZYusSXu50HJPlqog3F1ACets7NOZ/dvF9P14Ze86VLQMozYdEIPDtKHtL+ZlaPPQ8+xPG1Z8cX3w==",
   "success": true,
   "projectFilePath": "C:\\Users\\yunus\\OneDrive\\Desktop\\OnlineStudentManagment\\Api\\Api.csproj",
   "expectedPackageFiles": [
@@ -49,6 +49,7 @@
     "C:\\Users\\yunus\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\yunus\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\yunus\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\yunus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\yunus\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\yunus\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.8\\sqlitepclraw.bundle_e_sqlite3.2.1.8.nupkg.sha512",
     "C:\\Users\\yunus\\.nuget\\packages\\sqlitepclraw.core\\2.1.8\\sqlitepclraw.core.2.1.8.nupkg.sha512",
