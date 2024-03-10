@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yunus\\OneDrive\\Desktop\\OnlineStudentManagment\\Api\\Api.csproj": {}
+    "C:\\Users\\yunus\\OneDrive\\Desktop\\OnlineStudentManagment\\api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yunus\\OneDrive\\Desktop\\OnlineStudentManagment\\Api\\Api.csproj": {
+    "C:\\Users\\yunus\\OneDrive\\Desktop\\OnlineStudentManagment\\api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yunus\\OneDrive\\Desktop\\OnlineStudentManagment\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\yunus\\OneDrive\\Desktop\\OnlineStudentManagment\\api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\yunus\\OneDrive\\Desktop\\OnlineStudentManagment\\Api\\Api.csproj",
+        "projectPath": "C:\\Users\\yunus\\OneDrive\\Desktop\\OnlineStudentManagment\\api\\Api.csproj",
         "packagesPath": "C:\\Users\\yunus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yunus\\OneDrive\\Desktop\\OnlineStudentManagment\\Api\\obj\\",
+        "outputPath": "C:\\Users\\yunus\\OneDrive\\Desktop\\OnlineStudentManagment\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yunus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
@@ -95,24 +95,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.16, 7.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -121,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
