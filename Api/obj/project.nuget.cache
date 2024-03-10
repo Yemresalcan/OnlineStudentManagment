@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a74CfpKU2L1wHU+ROUddOhirY8XiimOCp143qQRBTqYAdhb1hHogVDjnMCpmjPwmCWD2T/OCckX24v60LXZt4w==",
+  "dgSpecHash": "HYBQe/6s6VNGtQiJWT8zAFshR9PChXO1F+r5kpWT1wwHa+W1oqY0270Il2UU0QI7haKkKeXA2zEzR1jb/r35Jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yunus\\OneDrive\\Desktop\\OnlineStudentManagment\\api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\yunus\\OneDrive\\Desktop\\OnlineStudentManagment\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yunus\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\yunus\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
